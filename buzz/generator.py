@@ -3,7 +3,7 @@ import random
 buzz = ('continuous testing', 'continuous integration',
     'continuous deployment', 'continuous improvement', 'devops','anik','anik','test')
 adjectives = ('complete', 'modern', 'self-service', 'integrated', 'end-to-end','anik')
-adverbs = ('remarkably', 'enormously', 'substantially', 'significantly',,'anik'
+adverbs = ('remarkably', 'enormously', 'substantially', 'significantly','anik'
     'seriously')
 verbs = ('accelerates', 'improves', 'enhances', 'revamps', 'boosts','anik')
 
