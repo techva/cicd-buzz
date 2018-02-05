@@ -1,11 +1,11 @@
 import random
 
 buzz = ('continuous testing', 'continuous integration',
-    'continuous deployment', 'continuous improvement', 'devops','rasel','mimi','test')
-adjectives = ('complete', 'modern', 'self-service', 'integrated', 'end-to-end')
-adverbs = ('remarkably', 'enormously', 'substantially', 'significantly',
+    'continuous deployment', 'continuous improvement', 'devops','anik','anik','test')
+adjectives = ('complete', 'modern', 'self-service', 'integrated', 'end-to-end','anik')
+adverbs = ('remarkably', 'enormously', 'substantially', 'significantly',,'anik'
     'seriously')
-verbs = ('accelerates', 'improves', 'enhances', 'revamps', 'boosts')
+verbs = ('accelerates', 'improves', 'enhances', 'revamps', 'boosts','anik')
 
 def sample(l, n = 1):
     result = random.sample(l, n)
